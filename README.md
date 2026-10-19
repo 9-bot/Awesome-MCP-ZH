@@ -20,8 +20,7 @@
 - [ 刚官宣支持MCP，就发布自家Agent协议（A2A），扒一扒Google暗藏的小心思](https://mp.weixin.qq.com/s/Zoq2bgPfJIERAzPiN1l0QA)
 - [阿里云拥抱 MCP 这步棋，太多人都没有真正看懂](https://mp.weixin.qq.com/s/GrEWFqpmvp1LfURAT1XzZw)
 - [ 详解 MCP 传输机制 ](https://mp.weixin.qq.com/s/gmgo_glOzbvdFwePP1yQ9g)
---| [9bot](https://github.com/9-bot/mcp) | 在 ChatGPT、Claude、Gemini 或 Copilot 中管理 WhatsApp 群组和社区：审核、反垃圾、定时消息、成员管理与数据分析。 | 官方实现 (9bot) 🎖️, 云服务 ☁️, 远程端点 `https://mcp.9bot.com.br/mcp`（Streamable HTTP + OAuth 2.1，无需本地安装），MCP Registry: `br.com.9bot/mcp`，文档：https://9bot.com.br/en/9bot-docs |
--
+---
 
 ## 目录
 
@@ -711,6 +710,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 
 | 名称                                                                 | 中文介绍                                                                                     | 备注                                                                                        |
 | :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| [9bot](https://github.com/9-bot/mcp) | 在 ChatGPT、Claude、Gemini 或 Copilot 中管理 WhatsApp 群组和社区：审核、反垃圾、定时消息、成员管理与数据分析。 | 官方实现 (9bot) 🎖️, 云服务 ☁️, 远程端点 `https://mcp.9bot.com.br/mcp`（Streamable HTTP + OAuth 2.1，无需本地安装），MCP Registry: `br.com.9bot/mcp`，文档：https://9bot.com.br/en/9bot-docs |
 | [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit) | 用于即时创建收件箱以发送、接收和处理邮件的 MCP 服务器。专为 AI Agents 设计的邮件服务。 | 官方实现 (AgentMail) 🎖️, Python 开发 🐍, 邮件处理。                                       |
 | [Atomic Mail](https://github.com/Atomic-Mail/atomic-mail-agentic) | 面向 AI 代理的邮件服务：代理可通过工作量证明自主注册收件箱（无需邮箱验证、域名或信用卡），支持自定义域名，基于开放的 JMAP 标准完整收发邮件。 | 官方实现 (Atomic Mail) 🎖️, TypeScript 开发 📇, 云服务 ☁️, JMAP 邮件收发（工作量证明注册）。 |
 | [Inbox Zero](https://github.com/elie222/inbox-zero) | Inbox Zero 官方集成，AI 个人邮件助手 (基于 Gmail，提供需回复/需跟进邮件识别等功能)。         | 官方实现 (Inbox Zero) 🎖️, Python 开发 🐍, 云服务 ☁️, 智能邮件管理。                       |
