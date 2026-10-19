@@ -20,7 +20,8 @@
 - [ 刚官宣支持MCP，就发布自家Agent协议（A2A），扒一扒Google暗藏的小心思](https://mp.weixin.qq.com/s/Zoq2bgPfJIERAzPiN1l0QA)
 - [阿里云拥抱 MCP 这步棋，太多人都没有真正看懂](https://mp.weixin.qq.com/s/GrEWFqpmvp1LfURAT1XzZw)
 - [ 详解 MCP 传输机制 ](https://mp.weixin.qq.com/s/gmgo_glOzbvdFwePP1yQ9g)
----
+--| [9bot](https://github.com/9-bot/mcp) | 在 ChatGPT、Claude、Gemini 或 Copilot 中管理 WhatsApp 群组和社区：审核、反垃圾、定时消息、成员管理与数据分析。 | 官方实现 (9bot) 🎖️, 云服务 ☁️, 远程端点 `https://mcp.9bot.com.br/mcp`（Streamable HTTP + OAuth 2.1，无需本地安装），MCP Registry: `br.com.9bot/mcp`，文档：https://9bot.com.br/en/9bot-docs |
+-
 
 ## 目录
 
